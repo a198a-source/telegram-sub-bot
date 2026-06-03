@@ -15,7 +15,7 @@ from telegram.ext import (
 # ==========================
 # CONFIG (EDIT THESE)
 # ==========================
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8627626550:AAGqR10bjvkkbfE01chwV3NvCU2D0DclnOA"
 ADMIN_USERNAME = "Gucu686p7"   # without @
 UPI_ID = "Q273417373@ybl"
 
